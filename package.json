@@ -14,9 +14,9 @@
   "author": "\"Kevin Rayo Meza\"",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/007krm/Tech-Blog/issues"
+    "url": "https://kevin-tech.herokuapp.com/"
   },
-  "homepage": "https://github.com/007krm/Tech-Blog#readme",
+  "homepage": "https://kevin-tech.herokuapp.com/",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
